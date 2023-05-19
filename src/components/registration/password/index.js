@@ -11,7 +11,7 @@ export default function Password({ setPassword, password}){
    return <>
        <p>Create a password</p>
    <TextField
-  //  value={password}
+   value={password}  
    onChange={handlePasswordChange}
     sx={{ width: "100%", border:'none', borderRadius:5, height:48 }}
     label="Password"
