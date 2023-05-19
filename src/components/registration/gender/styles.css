@@ -1,0 +1,22 @@
+.form-button {
+  text-transform:none!important;
+    background: #ffffff!important;
+    border-radius: 16px!important;
+    max-width: 514px!important;
+    width: 100%!important;
+    height: 48px!important;
+    font-weight: 500!important;
+    font-size: 18px!important;
+    line-height: 26px!important;
+    margin-bottom: 16px!important;
+    font-family: 'Public Sans'!important;
+    font-style: normal!important;
+  }
+  .selected {
+    border: 1px solid #f76448!important;
+    color: #f76448!important;
+  }
+  .not-selected {
+    border: 1px solid #b2b3b5!important;
+    color: #b2b3b5!important;
+  }

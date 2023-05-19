@@ -1,0 +1,391 @@
+svg{
+    position: absolute;
+    width: 100%;
+}
+
+.svg1{
+    top:0.01vh;
+    left:1.5vw;
+    max-width: 1.51vw;
+}
+.svg2{
+    left:9.11vw;
+    /* top:-0.48vh; */
+    max-width: 6.04vw;
+}
+.svg3{
+    top:3.9vh;
+    left:0;
+    max-width:0.89vw;
+}
+
+.svg4{
+    top: 3.5vh;
+    left: 3.5vw;
+    max-width: 5.31vw;
+}
+.svg5{
+    left:18.4vw;
+    /* top:-3.6vh; */
+    max-width: 3.7vw;
+}
+
+.svg6{
+    left: 23.33vw;
+    max-width: 9.4vw;
+    /* top:-3.1vh  */
+}
+
+.svg7 {
+left: 33.7vw;
+/* top:-1.44vh; */
+max-width: 1.98vw;
+}
+
+.svg8{
+    max-width: 1.19vw;
+    left: 32.97vw;
+    top:1.05vh;
+}
+
+.svg9{
+    max-width: 8.23vw;
+    left:36.15vw;
+    top:2.56vh
+}
+
+.svg10{
+    /* top:-2.48vh; */
+    max-width:6.41vw;
+    left: 46.46vw;
+}
+
+.svg11{
+    max-width: 2.19vw;
+    top:1.35vh;
+    left: 60.42vw;
+}
+
+.svg12{
+    top:1.35vh;
+    left:61.77vw;
+    max-width: 2.19vw;
+}
+
+.svg13{
+    left: 53.8vw;
+    max-width: 5.47vw;
+    /* top:-4.44vh; */
+}
+
+.svg14{
+    top:2.56vh;
+    left: 68.33vw;
+    max-width: 7.86vw;
+}
+
+.svg15{
+    max-width: 5.47vw;
+    left:79.58vw;
+    /* top: -1.42vh; */
+}
+
+.svg16{
+    top:2.93vh;
+    left: 88.38vw;
+    max-width: 8.07vw;
+}
+
+.svg17{
+    left: 96.14vw;
+    top:1.28vh;
+    max-width: 5.16vw;
+}
+
+.svg18{
+    top:11.44vh;
+    max-width: 7.66vw;
+    left:-0.78vw;
+}
+
+.svg19{
+    left: 8.38vw;
+    top:8.95vh;
+    max-width: 5.47vw;
+}
+
+.svg20{
+    left: 14.89vw;
+    top:6.77vh;
+    max-width: 2.08vw;
+}
+
+.svg21{
+    left: 19.79vw;
+    max-width: 4.06vw;
+    top: 5.94vh
+}
+
+.svg22{
+    top:9.4vh;
+    left: 29.48vw;
+    max-width: 4.79vw;
+}
+
+.svg23{
+    left:11.93vw;
+    max-width: 5.47vw;
+    top: 14.14vh
+}
+
+.svg24{
+    top:24.9vh;
+    left: 1.4vw;
+    max-width: 7.55vw;
+}
+
+.svg25{
+    left: 15.42vw;
+    max-width: 8.02vw;
+    top:27.39vh
+}
+
+.svg26{
+    top:19.64vh;
+    left: 23.75vw;
+    max-width: 6.29vw;
+}
+
+.svg27{
+left:-3.5vh;
+top:37.7vh;
+max-width: 5.31vw;
+}
+
+.svg28{
+    left: 3.44vw;
+    max-width: 3.44vw;
+    top:38.07vh;
+}
+
+.svg29{
+    top:39.5vh;
+    left:7.81vw;
+    max-width: 10.42vw;
+}
+
+.svg30{
+    left:21.77vw;
+    max-width: 4.53vw;
+    top:39.95vh;
+}
+
+.svg31{
+    left: 27.81vw;
+    max-width: 8.07vw;
+    top:32.66vh;
+}
+
+.svg32{
+    top:49.48vh;
+    max-width: 8.45vw;
+    left: -3vh;
+}
+
+.svg33{
+    top:56.13vh;
+    left:5.78vw;
+    max-width: 5vw;
+}
+
+.svg34{
+    left:16.2vw;
+    max-width: 7.55vw;
+    top:54.03vh;
+}
+
+.svg35{
+    top:53.12vh;
+    left: 27.71vw;
+    max-width: 5.05vw;
+}
+
+.svg37{
+    top:71.74vh;
+    left:-0.8vh;
+    max-width: 8.07vw;
+}
+
+.svg38{
+    top: 67.04vh;
+    max-width: 2.13vw;
+    left: 12.29vw;
+}
+
+.svg39{
+    left:9.27vw;
+    max-width: 5.99vw;
+    top:68.02vh;
+}
+
+.svg40{
+    top:66.52vh;
+    left:24.11vw;
+    max-width: 5.47vw;
+}
+
+.svg41{
+   left: 17.66vw;
+   max-width: 7.13vw;
+   top:71.86vh 
+}
+
+.svg42{
+    top:67.42vh;
+    left: 32.97vw;
+    max-width: 7.86vw;
+}
+
+.svg43{
+    left: 40.1vw;
+    max-width: 6.35vw;
+    top: 58.46vh;
+}
+
+.svg44{
+    top:70.88vh;
+    left:43.9vw;
+    max-width: 7.66vw;
+}
+
+.svg45{
+    left: 49.48vw;
+    max-width: 8.18vw;
+    top: 58.99vh;
+}
+
+.svg46{
+    top:74.04vh;
+    left: 55.05vw;
+    max-width: 4.06vw;
+}
+
+.svg47{
+    left: 60.16vw;
+    max-width: 3.9vw;
+    top:50.56vh;
+}
+
+.svg48{
+    top:63.51vh;
+    left: 61.82vw;
+    max-width: 10.42vw;
+}
+
+.svg49{
+    left: 75.98vw;
+    max-width: 10vw;
+    top:16.27vh
+}
+
+.svg50{
+    top: 13.24vh;
+    left: 83.75vw;
+    max-width: 2.44vw;
+}
+
+.svg51{
+    left: 88.33vw;
+    max-width: 7.13vw;
+    top:23.17vh
+}
+
+.svg52{
+    left:96.82vw;
+    max-width: 3.6vw;
+    top:17.53vh
+}
+
+.svg53{
+    top:22.65vh;
+    left: 98.49vw;
+    max-width: 2.86vw;
+}
+
+.svg54{
+    left: 66.09vw;
+    max-width: 7.55vw;
+    top:23.54vh
+}
+
+.svg55{
+    left: 79.48vw;
+    max-width: 4.53vw;
+    top: 36.34vh;
+}
+
+.svg56{
+    left: 85.05vw;
+    max-width: 02.86vw;
+    top:36.94vh
+}
+
+.svg57{
+    top:40.33vh;
+    left:87.76vw;
+    max-width: 5.47vw;
+}
+
+.svg58{
+    left: 97.6vw;
+    max-width: 2.86vw;
+    top:36.94vh
+}
+
+.svg59{
+    top: 49.1vh;
+    left: 71.25vw;
+    max-width: 4.06vw;
+}
+
+.svg60{
+    left: 96.04vw;
+    max-width: 6.09vw;
+    top:51.01vh
+}
+
+.svg61{
+    top: 57.49vh;
+    left: 94.58vw;
+    max-width: 7.86vw;
+}
+
+.svg62{
+    left: 91.82vw;
+    max-width: 5.16vw;
+    top:68.77vh
+}
+
+.svg63{
+    top:73.51vh;
+    max-width: 2.86vw;
+    left: 90.1vw;
+}
+
+.svg64{
+    top:62.9vh;
+    left: 78.44vw;
+    max-width: 10.73vw;
+}
+
+.svg65{
+    left: 74.94vw;
+    max-width: 4.11vw;
+    top:69vh
+}
+
+.svg66{
+    top: 60vh;
+    left: 77.39vw;
+    max-width: 3.6vw;
+}
